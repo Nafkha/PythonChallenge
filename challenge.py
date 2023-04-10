@@ -71,7 +71,7 @@ def pyramide_age(employees):
 
 
 if __name__ == "__main__":
-    os.chdir("C:/Users/nafkh/OneDrive/Bureau/testStage/")
+    os.chdir("C:/StageChallenge/")
 
     #si database vide
     #load()
